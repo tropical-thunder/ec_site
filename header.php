@@ -1,0 +1,3 @@
+<header>
+	<?php linkbook();?>
+</header>
